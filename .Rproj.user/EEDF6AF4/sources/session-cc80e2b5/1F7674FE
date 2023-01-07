@@ -1,0 +1,28 @@
+{
+    "id": "1F7674FE",
+    "path": "~/personal/expenses_audit/scratchpad.R",
+    "project_path": "scratchpad.R",
+    "type": "r_source",
+    "hash": "3320617277",
+    "contents": "",
+    "dirty": false,
+    "created": 1673081516643.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "wwzn93w1zwqq4",
+        "Source": "Source",
+        "cursorPosition": "42,0",
+        "scrollLine": "0",
+        "marks": "<:2,7\n>:2,16"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1673086308,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1673086308588,
+    "read_only": false,
+    "read_only_alternatives": []
+}

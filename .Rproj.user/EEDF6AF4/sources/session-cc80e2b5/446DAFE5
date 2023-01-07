@@ -1,0 +1,27 @@
+{
+    "id": "446DAFE5",
+    "path": "~/personal/expenses_audit/report_eda.Rmd",
+    "project_path": "report_eda.Rmd",
+    "type": "r_markdown",
+    "hash": "1989562099",
+    "contents": "",
+    "dirty": false,
+    "created": 1673086112085.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "44,0",
+        "scrollLine": "40"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1673086304,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1673086304097,
+    "read_only": false,
+    "read_only_alternatives": []
+}
